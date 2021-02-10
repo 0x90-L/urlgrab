@@ -1,4 +1,4 @@
-module urlgrab
+module ithub.com/iamstoxe/urlgrab
 
 go 1.14
 
